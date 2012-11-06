@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[陈巍巍的网络日志]]></title>
-  <link href="http://treevivi.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 生活 | 陈巍巍的网络日志]]></title>
+  <link href="http://treevivi.github.com/blog/categories/生活/atom.xml" rel="self"/>
   <link href="http://treevivi.github.com/"/>
   <updated>2012-11-06T18:18:40+08:00</updated>
   <id>http://treevivi.github.com/</id>
