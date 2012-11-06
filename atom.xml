@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[陈巍巍的网络日志]]></title>
   <link href="http://treevivi.github.com/atom.xml" rel="self"/>
   <link href="http://treevivi.github.com/"/>
-  <updated>2012-11-06T10:20:32+08:00</updated>
+  <updated>2012-11-06T11:52:19+08:00</updated>
   <id>http://treevivi.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[treevivi]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
