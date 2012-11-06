@@ -4,7 +4,7 @@
   <title><![CDATA[陈巍巍的网络日志]]></title>
   <link href="http://treevivi.github.com/atom.xml" rel="self"/>
   <link href="http://treevivi.github.com/"/>
-  <updated>2012-11-06T18:18:40+08:00</updated>
+  <updated>2012-11-06T18:21:34+08:00</updated>
   <id>http://treevivi.github.com/</id>
   <author>
     <name><![CDATA[treevivi]]></name>
@@ -37,7 +37,7 @@ Octopress宣称自己“A blogging framework for hackers”。貌似不是。
 部署很简单。就两个事，记一下：
 <ul>
 <li>服务器上ruby版本不是1.9.3，重新安装下。注意要用RVM装，文档很详细。rbenv没装成功。</li>
-<li>装完后报警告“It seems your ruby installation is missing psych (for YAML output)”，手动安装libyaml解决。参考<a href="http://www.cnblogs.com/qq78292959/archive/2011/12/15/2288567.html">这里</a>。</li>
+<li>装完后报警告“It seems your ruby installation is missing psych (for YAML output)”，手动安装libyaml解决。参考<a href="http://www.cnblogs.com/qq78292959/archive/2011/12/15/2288567.html" target="_blank">这里</a>。</li>
 </ul>
 </p>
 
